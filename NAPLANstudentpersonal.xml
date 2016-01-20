@@ -1,0 +1,109 @@
+<StudentPersonals xmlns="http://www.sifassociation.org/au/datamodel/3.4">
+<StudentPersonal RefId="C2E3671D-2311-41C4-9EF6-72D475A18527">
+  <LocalId>bfhnu810</LocalId>
+  <StateProvinceId>52817</StateProvinceId>
+  <OtherIdList>
+    <OtherId Type="StudentSectorId">58220</OtherId>
+    <OtherId Type="DiocesanStudentId">67686</OtherId>
+    <OtherId Type="Other">77980</OtherId>
+    <OtherId Type="TAAStudentId">18602</OtherId>
+    <OtherId Type="PreviousStateProvinceId">29220</OtherId>
+    <OtherId Type="NationalStudentId">69410</OtherId>
+    <OtherId Type="NAPPlatformStudentId">33502</OtherId>
+    <OtherId Type="PreviousLocalSchoolStudentId">71820</OtherId>
+    <OtherId Type="PreviousSectorStudentId">6417</OtherId>
+    <OtherId Type="PreviousDiocesanStudentId">60724</OtherId>
+    <OtherId Type="PreviousOtherId">36053</OtherId>
+    <OtherId Type="PreviousTAAStudentId">93184</OtherId>
+    <OtherId Type="PreviousStateProvinceId">20125</OtherId>
+    <OtherId Type="PreviousNationalStudentId">92306</OtherId>
+    <OtherId Type="PreviousNAPPlatformStudentId">33449</OtherId>
+  </OtherIdList>
+  <PersonInfo>
+    <Name Type="LGL">
+      <FamilyName>Hall</FamilyName>
+      <GivenName>Byron</GivenName>
+      <MiddleName>M</MiddleName>
+      <PreferredGivenName>Byron</PreferredGivenName>
+    </Name>
+    <Demographics>
+      <IndigenousStatus>4</IndigenousStatus>
+      <Sex>1</Sex>
+      <BirthDate>2009-09-19</BirthDate>
+      <CountryOfBirth>1101</CountryOfBirth>
+      <CountriesOfCitizenship>
+        <CountryOfCitizenship>1101</CountryOfCitizenship>
+      </CountriesOfCitizenship>
+      <CountriesOfResidency>
+        <CountryOfResidency>1101</CountryOfResidency>
+      </CountriesOfResidency>
+      <AustralianCitizenshipStatus>1</AustralianCitizenshipStatus>
+      <EnglishProficiency>
+        <Code>1</Code>
+      </EnglishProficiency>
+      <LanguageList>
+        <Language>
+          <Code>1201</Code>
+          <LanguageType>1</LanguageType>
+        </Language>
+      </LanguageList>
+      <DwellingArrangement>
+        <Code>1671</Code>
+      </DwellingArrangement>
+      <PermanentResident>P</PermanentResident>
+      <VisaSubClass>101</VisaSubClass>
+      <VisaStatisticalCode>05</VisaStatisticalCode>
+      <LBOTE>Y</LBOTE>
+    </Demographics>
+    <AddressList>
+      <Address Type="0123" Role="012B">
+        <Street>
+          <Line1>303 S. Diamond Bar Blvd.</Line1>
+        </Street>
+        <City>Diamond Bar</City>
+        <StateProvince>VIC</StateProvince>
+        <Country>1101</Country>
+        <PostalCode>9999</PostalCode>
+      </Address>
+    </AddressList>
+    <PhoneNumberList>
+      <PhoneNumber Type="0096">
+        <Number>888-445-3609</Number>
+        <ListedStatus>Y</ListedStatus>
+      </PhoneNumber>
+    </PhoneNumberList>
+    <EmailList>
+      <Email Type="01">byron.m.hall@trashymail.com</Email>
+      <Email Type="02">byron0@mailinator.com</Email>
+    </EmailList>
+  </PersonInfo>
+  <MostRecent>
+    <SchoolLocalId>72868</SchoolLocalId>
+    <HomeroomLocalId>177</HomeroomLocalId>
+    <YearLevel><Code>9</Code></YearLevel>
+    <FTE>0.86</FTE>
+    <Parent1Language>9601</Parent1Language>
+    <Parent2Language>1201</Parent2Language>
+    <Parent1EmploymentType>4</Parent1EmploymentType>
+    <Parent2EmploymentType>3</Parent2EmploymentType>
+    <Parent1SchoolEducationLevel>3</Parent1SchoolEducationLevel>
+    <Parent2SchoolEducationLevel>2</Parent2SchoolEducationLevel>
+    <Parent1NonSchoolEducation>7</Parent1NonSchoolEducation>
+    <Parent2NonSchoolEducation>8</Parent2NonSchoolEducation>
+    <SchoolACARAId>XYZZY123</SchoolACARAId>
+    <LocalCampusId>01</LocalCampusId>
+    <TestLevel>9</TestLevel>
+    <Homegroup>9F</Homegroup>
+    <ClassCode>9E</ClassCode>
+    <MembershipType>01</MembershipType>
+    <FFPOS>1</FFPOS>
+    <ReportingSchoolId>XYZZY123</ReportingSchoolId>
+    <OtherEnrollmentSchoolACARAId>XYZZY456</OtherEnrollmentSchoolACARAId>
+  </MostRecent>
+  <AcceptableUsePolicy>N</AcceptableUsePolicy>
+  <EducationSupport>N</EducationSupport>
+  <HomeSchooledStudent>Y</HomeSchooledStudent>
+  <Sensitive>Y</Sensitive>
+  <OfflineDelivery>N</OfflineDelivery>
+</StudentPersonal>
+</StudentPersonals>

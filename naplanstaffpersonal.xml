@@ -1,0 +1,37 @@
+<StaffPersonals xmlns="http://www.sifassociation.org/au/datamodel/3.4">
+<StaffPersonal RefId="D104ABDC-82BC-4DFD-B062-9334D04D2189">
+  <LocalId>59927.769617379</LocalId>
+  <PersonInfo>
+    <Name Type="LGL">
+      <FamilyName>Griffin</FamilyName>
+      <GivenName>Marie</GivenName>
+    </Name>
+    <AddressList>
+      <Address Type="0123" Role="012B">
+        <Street>
+          <Line1>101 N. Main St</Line1>
+        </Street>
+        <City>Pearisburg</City>
+        <StateProvince>VIC</StateProvince>
+        <Country>1101</Country>
+        <PostalCode>9999</PostalCode>
+      </Address>
+    </AddressList>
+    <EmailList>
+      <Email Type="01">marie0@dodgit.com</Email>
+    </EmailList>
+  </PersonInfo>
+  <Title>Principal</Title>
+  <EmploymentStatus>A</EmploymentStatus>
+  <MostRecent>
+    <SchoolLocalId>72868</SchoolLocalId>
+    <SchoolACARAId>XYZZY123</SchoolACARAId>
+    <LocalCampusId>01</LocalCampusId>
+    <NAPLANClassList>
+      <ClassCode>qirxk075</ClassCode>
+      <ClassCode>xytkj587</ClassCode>
+    </NAPLANClassList>
+    <HomeGroup>yazae569</HomeGroup>
+  </MostRecent>
+</StaffPersonal>
+</StaffPersonals>
