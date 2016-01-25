@@ -1,0 +1,19 @@
+<BulkIngest xmlns="http://www.sifassociation.org/au/datamodel/3.4">
+
+<Invoice RefId="82c725ac-1ea4-4395-a9be-c35e5657d1cc">
+  <InvoicedEntity SIF_RefObject="Debtor">e1759047-09c4-4ba0-a69e-eec215de3d80</InvoicedEntity>
+  <BillingDate>2014-02-01</BillingDate>
+  <TransactionDescription>Activity Fees</TransactionDescription>
+  <BilledAmount Type="Debit" Currency="AUD">24.93</BilledAmount>
+  <Ledger>Family</Ledger>
+  <TaxRate>10.0</TaxRate>
+  <TaxAmount Currency="AUD">2.49</TaxAmount>
+</Invoice>
+
+<Debtor RefId="e1759047-09c4-4ba0-a69e-eec215de3d80">
+  <BilledEntity SIF_RefObject="StudentContactPersonal">62925E52-7C06-44DB-9B8E-E2E40B2FCBF3</BilledEntity>
+  <Discount>10.0</Discount>
+</Debtor>
+
+
+</BulkIngest>
