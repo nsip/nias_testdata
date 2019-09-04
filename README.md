@@ -1,3 +1,9 @@
+***DEPRECATED (RETIRED)***
+
+*This repository is obsolete and retired (archived). This is an unmantained repository. In particular, note that it is not being updated with security patches, including those for dependent libraries.*
+
+
+
 # nias_testdata
 
 Test data for the [NSIP Integration As a Service](https://github.com/nsip/nias) repository.
